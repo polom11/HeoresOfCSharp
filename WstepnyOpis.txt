@@ -1,0 +1,12 @@
+HeroesOfCSharp
+##########################
+Projekt realizowany w ramach Akademii C#
+Skład zespołu:
+	-Michał Krakowiak
+	-Jakub Wyka
+	-Kacper Połom
+##########################
+Cel: Stworzenie prostej gry strategicznej inspirowanej Heroes of Might and Magic.
+Techgnologie jakich użyjemy: C# (ofc), SFML.NET (zewnętrzna biblioteka do obsługi grafiki)
+###########################
+Podział prac: ???
